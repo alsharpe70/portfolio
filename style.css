@@ -3,7 +3,9 @@
     padding: 8;
     box-sizing: border-box;
    } */
-  
+   body {
+     background-color: #70B1B3
+   }
    .main-container {
     color: white;
     background-color: rebeccapurple;
